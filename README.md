@@ -1,5 +1,7 @@
 # Simple Docker
 
+> Project work report is available in the file [report.md](./src/report.md)
+
 Introduction to docker. Developing a simple docker image for your own server.
 
 The russian version of the task can be found in the repository.
